@@ -4,6 +4,8 @@ WeSTCAT - Web Science and Technologies Content Analysis Toolkit
 ## Overview
 WeSTCAT is an extended version of the [AmCAT](https://github.com/amcat/amcat) software for human rating ("coding") of texts, originally customized by Christoph Kling, now maintained by Aemal Sayer.
 
+WeSTCAT is part of the Komepol project at the [Institute for Web Science and Technologies](https://west.uni-koblenz.de/) at the [University of Koblenz–Landau](https://www.uni-koblenz-landau.de/de/koblenz/). 
+
 ## Installation and Configuration
 
 ### Prerequisites
